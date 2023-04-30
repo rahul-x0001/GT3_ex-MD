@@ -1,2 +1,3 @@
-# GT3_ex-MD
-A plugin based multi device bot ( under development ⚠️)
+# [`DON'T FORK, UNDER DEVELOPMENT`](https://github.com/PikaBotz)
+
+• Please feel free to send pull request and help me to develop this bot if you have an idea or you found a bug
